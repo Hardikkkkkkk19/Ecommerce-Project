@@ -72,7 +72,6 @@ The Home page displays ASUS premium accessories, including product cards for gam
 ### Product Screenshot 2
 ![Product Screenshot 2](./screenshots/products-page2.png)
 
-![Products Page Screenshot](screenshots/products-page.png)
 
 ### About Page
 
