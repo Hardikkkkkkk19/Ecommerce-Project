@@ -53,13 +53,14 @@ basics/
 
 ## Pages
 
+Markdown
 ### Home Page
 
 Route: `/home`
 
 The Home page displays ASUS premium accessories, including product cards for gaming keyboard, mouse, and headset items.
 
-Screenshot:
+#### Screenshot
 
 ![Home Page Screenshot](screenshots/home.png)
 
