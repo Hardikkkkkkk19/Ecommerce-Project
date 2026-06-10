@@ -181,8 +181,10 @@ Runs ESLint to check code quality.
 Add screenshots to the `screenshots` folder with these names:
 
 - `home-page.png`
-- `products-page.png`
-- `about-page.png`
+- `products-page1.png`
+- `products-page2.png`
+- `about-page1.png`
+- `about-page1.png`
 - `contact-page.png`
 
 After adding the images, the screenshot spaces in this README will display automatically.
