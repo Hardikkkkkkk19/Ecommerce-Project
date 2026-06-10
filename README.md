@@ -64,13 +64,13 @@ The Home page displays ASUS premium accessories, including product cards for gam
 
 ![Home Page Screenshot](screenshots/home-page.png)
 
-### Products Page
+## Products Page
 
-Route: `/products`
+### Product Screenshot 1
+![Product Screenshot 1](./screenshots/products-page1.png)
 
-The Products page displays ASUS laptop products such as ROG Strix, Zenbook, Vivobook, and TUF Gaming laptops.
-
-Screenshot:
+### Product Screenshot 2
+![Product Screenshot 2](./screenshots/products-page2.png)
 
 ![Products Page Screenshot](screenshots/products-page.png)
 
