@@ -101,7 +101,11 @@ The Contact page includes a contact form with fields for name, email, subject, a
 
 Screenshot:
 
-![Contact Page Screenshot](screenshots/contact-page.png)
+### Contact Screenshot 1
+![About Screenshot 1](screenshots/contact-page1.png)
+
+### Contact Screenshot 2
+![About Screenshot 2](screenshots/contact-page2.png)
 
 ## Installation
 
