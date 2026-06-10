@@ -53,7 +53,7 @@ basics/
 
 ## Pages
 
-Markdown
+
 ### Home Page
 
 Route: `/home`
@@ -65,6 +65,12 @@ The Home page displays ASUS premium accessories, including product cards for gam
 ![Home Page Screenshot](screenshots/home-page.png)
 
 ## Products Page
+
+Route: `/products`
+
+The Products page displays ASUS laptop products such as ROG Strix, Zenbook, Vivobook, and TUF Gaming laptops.
+
+#### Screenshot
 
 ### Product Screenshot 1
 ![Product Screenshot 1](./screenshots/products-page1.png)
@@ -80,10 +86,6 @@ Route: `/about`
 The About page describes ASUS as a technology brand and highlights premium quality, innovation, customer support, warranty, delivery, and help services.
 
 Screenshot:
-
-## About Page
-
-## About Page
 
 ### About Screenshot 1
 ![About Screenshot 1](screenshots/about-page1.png)
