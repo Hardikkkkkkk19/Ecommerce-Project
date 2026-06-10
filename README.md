@@ -81,7 +81,15 @@ The About page describes ASUS as a technology brand and highlights premium quali
 
 Screenshot:
 
-![About Page Screenshot](screenshots/about-page.png)
+## About Page
+
+## About Page
+
+### About Screenshot 1
+![About Screenshot 1](screenshots/about-page1.png)
+
+### About Screenshot 2
+![About Screenshot 2](screenshots/about-page2.png)
 
 ### Contact Page
 
