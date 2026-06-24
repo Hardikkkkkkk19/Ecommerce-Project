@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 export function Navbar() {
   return (
     <nav
@@ -13,10 +15,21 @@ export function Navbar() {
       <h3>ASUS</h3>
 
       <div style={{ display: "flex", gap: "50px" }}>
-        <p>Home</p>
-        <p>Products</p>
-        <p>About</p>
-        <p>Contact</p>
+        <Link to="/" style={{ color: "white", textDecoration: "none" }}>
+          Home
+        </Link>
+
+        <Link to="/products" style={{ color: "white", textDecoration: "none" }}>
+          Products
+        </Link>
+
+        <Link to="/about" style={{ color: "white", textDecoration: "none" }}>
+          About
+        </Link>
+
+        <Link to="/contact" style={{ color: "white", textDecoration: "none" }}>
+          Contact
+        </Link>
       </div>
     </nav>
   );
